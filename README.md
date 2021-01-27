@@ -4,4 +4,4 @@
 - Technologies used: HTML5, CSS3 and JavaScript
 
 
-![Page preview](./page/img/mockup.png)
+![Page preview](./page/img/mockup.jpg)
