@@ -1,0 +1,3 @@
+[0126/202339.795:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[0126/212442.122:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[0126/212443.053:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
